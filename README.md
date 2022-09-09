@@ -1,2 +1,2 @@
 # Live-Accident-Detection
-Live accident on road detection using Computer Vision
+Using Computer vision to detect Live accident on road
